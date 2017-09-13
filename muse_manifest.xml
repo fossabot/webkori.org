@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webkori.org" resolutions="1x" timestamp="1505259303531">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webkori.org" resolutions="1x" timestamp="1505292591574">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="218782912" ref="index"/>
-    <file name="index.css" crc="112980328" ref="index"/>
+    <file name="master_a-master.css" crc="4233918928" ref="index"/>
+    <file name="index.css" crc="138579267" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,10 +16,18 @@
   <folder name="images">
     <file name="stocksnap_5fdda0d4d7.jpg" crc="513017218" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="symbol.png" crc="522992093" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u313-6.png" crc="4233667726" ref="index"/>
+    <file name="if_code_216158.png" crc="4071774114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-mark-32px.png" crc="3973715556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="267082448" seo="true" mt="1505257274256" redirect="true"/>
+  <file name="index.html" crc="4146364665" seo="true" mt="1505292590777" redirect="true"/>
 </manifest>

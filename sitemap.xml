@@ -8,5 +8,11 @@
     <image:image>
       <image:loc>http://webkori.org/images/symbol.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://webkori.org/images/if_code_216158.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://webkori.org/images/github-mark-32px.png</image:loc>
+    </image:image>
   </url>
 </urlset>
